@@ -1,7 +1,7 @@
 # hello-world
 Learning how to create a new repository. If you hack my site, this will be the least useful item on it.
 
-Well, so that it is not a complete waste of your hacking time, here's some persinal info to peruse.
+Well, so that it is not a complete waste of your hacking time, here's some personal info to peruse.
 Name: Bish
 Gender: Male
 Age: That age where you start thinking what you are truly doing with your life.
